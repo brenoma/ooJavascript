@@ -1,0 +1,13 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo -------------------------------------------------\n node ./index.js"
+  },
+  "author": "Breno Menezes",
+  "license": "ISC",
+  "type": "module"
+}
